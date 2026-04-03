@@ -1,4 +1,4 @@
-package exercicio_25.pkg03;
+package exercicio_UFC;
 
 import java.util.Scanner;
 

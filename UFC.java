@@ -1,4 +1,4 @@
-package exercicio_25.pkg03;
+package exercicio_UFC;
 
 import java.util.Random;
 
@@ -56,10 +56,6 @@ public class UFC {
 
     public void setRounds(int rounds) {
         this.rounds = rounds;
-    }
-
-    public void setAprovado(boolean aprovado) {
-        this.aprovado = aprovado;
     }
 
 }

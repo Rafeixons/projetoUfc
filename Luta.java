@@ -1,4 +1,4 @@
-package exercicio_25.pkg03;
+package exercicio_UFC;
 
 public class Luta {
 
@@ -17,6 +17,7 @@ public class Luta {
         System.out.println("");
         System.out.println("Os pontos de: " + lutador2.getNome());
         lutador2.status();
+        System.out.println("");
         System.out.println("");
         
         
