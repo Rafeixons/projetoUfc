@@ -1,4 +1,4 @@
-package exercicio_UFC;
+package exercicio_25;
 
 public class Luta {
 
